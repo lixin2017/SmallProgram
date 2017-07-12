@@ -1,0 +1,16 @@
+D:\学习\源码\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\学习\源码\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\学习\源码\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\学习\源码\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\学习\源码\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\学习\源码\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\小程序\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\小程序\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\小程序\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\小程序\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\小程序\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\小程序\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\小程序\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+F:\小程序\Calculator\Calculator\Calculator\bin\Debug\Calculator.application
+F:\小程序\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+F:\小程序\Calculator\Calculator\Calculator\obj\Debug\Calculator.application
