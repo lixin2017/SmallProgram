@@ -1,0 +1,58 @@
+using System;
+public class Inherit
+{
+
+//爷爷类
+public class GrandfatherClass
+{
+     public GrandfatherClass()
+     {
+          Console.WriteLine("Constructor of GrandfatherClass");
+
+     }
+     public GrandfatherClass(string from)
+     {
+          Console.WriteLine("Constructor of GrandfatherClass:{0}", from);
+     }
+}
+
+//父亲类
+public class FatherClass:GrandfatherClass
+{
+    /* public FatherClass()
+     {
+          Console.WriteLine("Constructor of FatherClass");
+     } */
+     public FatherClass(string from)
+     {
+          Console.WriteLine("Constructor of FatherClass:{0}", from);
+     }
+}
+
+//小霸王类，我是小霸王，腰里别只鸡
+public class MeClass : FatherClass
+{
+     public MeClass()
+     {
+          Console.WriteLine("Constructor of MeClass");
+     }
+     public MeClass(string from)
+     {
+          Console.WriteLine("Constructor of MeClass:{0}", from);
+     }
+}
+
+static void Main(string[] args)
+{
+     //类实例化
+     Console.WriteLine("类实例化,调用无参构造函数：");
+     MeClass me = new MeClass();
+     
+     Console.WriteLine();
+
+     //类实例化，含参数
+     string from = "tiana0";
+     Console.WriteLine("类实例化,调用有参构造函数：");
+     MeClass me1 = new MeClass(from);
+}
+}

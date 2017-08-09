@@ -1,0 +1,58 @@
+body{
+	color: #333;
+	margin: 0 auto;	
+	background: #fffff;
+	font: 12px/20px "SimSun","宋体","Arial Narrow",HELVETICA;
+	font-family: "Microsoft YaHei","微软雅黑","SimSun","宋体";
+
+}
+div{
+	display: block;
+}
+
+.header{
+	height: 43px;
+    border-top: 3px solid #ff8500;
+    border-bottom: 1px solid #edeef0;
+    background-color: #fcfcfc;
+}
+.header-top,.header-search{
+	width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+.header-top{
+	margin: 0 auto;
+}
+.tn-tab{
+	display: inline-block;
+	padding: 12px 12px 12px 12px;
+	cursor: pointer;
+}
+.header-top-left,.logo{
+	float: left;
+}
+.header-top-right{
+	float: right;
+}
+a{
+	text-decoration: none;
+	color: #4c4c4c;
+}
+
+.tn-tab:hover,.tn-tab:hover >a{
+	background: #EDEEF0;
+	color: #ff8400;
+}
+.top-search{
+	margin: 6px 0 0 23px;
+	float: left;
+}
+.search-box{
+	float: right;
+	margin-top: 12px;
+	margin-left: 6px;
+}
+.sim-select{
+	float: left;
+}
